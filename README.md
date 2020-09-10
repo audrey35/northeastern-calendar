@@ -37,3 +37,4 @@ The project uses Python 3.8 and the dependencies are provided as a Pipfile for p
 ### How to get a list of pdf urls for all academic calendars for Northeastern University
 [Academic Calendar Home Page](https://registrar.northeastern.edu/group/calendar/)
 
+[Scrapy Tutorial](https://github.com/audrey35/northeastern-calendar/wiki/Scrapy-Tutorial)
